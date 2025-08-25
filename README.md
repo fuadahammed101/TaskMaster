@@ -16,7 +16,7 @@ TaskMaster is a smart and user-friendly Android application designed to help use
 
 | Home Screen | Add Task | Filters |
 |-------------|----------|---------|
-| ![Home](Figures/home.png) | ![Task](Figures/task.png) | ![Sort](Figures/sort.png) |
+| ![Home]([Figures/home.png](https://github.com/fuadahammed101/TaskMaster/blob/main/Home.png)) | ![Task]([Figures/](https://github.com/fuadahammed101/TaskMaster/blob/main/task.png) | ![Sort]([Figures/](https://github.com/fuadahammed101/TaskMaster/blob/main/sort.png) |
 
 ## 🛠️ Tech Stack
 
